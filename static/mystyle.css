@@ -59,6 +59,12 @@ span.example {
   max-width: 700px;
 }
 
+.fa {
+  color: #e8344e;
+  border: #e8344e;
+  background-color: white;
+}
+
 .table {
     width: 80%;
     max-width: 800px;
